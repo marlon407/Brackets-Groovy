@@ -1,0 +1,12 @@
+{
+    "name": "theresnobox.brackets.ruby",
+    "title": "Brackets Groovy",
+    "description": "Groovy Enhancements for Brackets Editor",
+    "homepage": "",
+    "version": "1.0.0",
+    "author": "Marlon Diego Casagranda França",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
