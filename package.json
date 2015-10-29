@@ -2,9 +2,9 @@
     "name": "theresnobox.brackets.ruby",
     "title": "Brackets Groovy",
     "description": "Groovy Enhancements for Brackets Editor",
-    "homepage": "",
-    "version": "1.0.0",
-    "author": "Marlon Diego Casagranda França",
+    "homepage": "https://github.com/marlon407/Brackets-Groovy",
+    "version": "1.0.1",
+    "author": "Marlon Diego Casagranda França  <maelondiego407@gmail.com> (https://github.com/marlon407/Brackets-Groovy)",
     "license": "MIT",
     "engines": {
         "brackets": ">=0.24.0"
