@@ -7,3 +7,7 @@ This Brackets Extension adds in support for Groovy's GSP view engines.
 Install
 -------
 You can install this via the extenion manager (Brackets -> Extention Manager), install from URL. The URL for the extention is https://github.com/marlon407/Brackets-Groovy
+
+Example
+-------
+![screenshot.png](screenshot.png)
